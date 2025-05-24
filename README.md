@@ -1,4 +1,4 @@
-Projeto: Previsão do Tempo com Django e AccuWeather
+Projeto: Previsão do Tempo com python, Django e AccuWeather
 
 📌 Descrição
 è um aplicativo web simples e funcional de previsão do tempo, desenvolvido com Python e Django, que consome dados em tempo real da API gratuita da AccuWeather. 
